@@ -21,7 +21,8 @@ function fancyAlert(arg) {
 emoji! :neckbeard:
 
 [X] This is a complete item
-   [ ] This is an ~~incomplete~~ item 
+
+[ ] This is an ~~incomplete~~ item 
 
 Okay|Not okay
 ----|----
