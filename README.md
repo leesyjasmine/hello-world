@@ -11,11 +11,11 @@
    -  Syntax Highlighting:
      -  Try code
          ```javascript
-         function fancyAlert(arg) {
-           if(arg) {
-             $.facebox({div:'#foo'})
-           }
-         }
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
          ```
 
 emoji! :neckbeard:
