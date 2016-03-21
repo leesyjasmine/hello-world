@@ -10,13 +10,13 @@
    -  Link here for markdown [Github markdown tutorial](https://guides.github.com/features/mastering-markdown/)
    -  Syntax Highlighting:
      -  Try code
-         ```javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-         ```
+```
 
 emoji! :neckbeard:
 
