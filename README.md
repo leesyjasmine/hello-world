@@ -3,7 +3,7 @@
 ## Header 2
 1. Incorporate Github flow
 2. Incorporate Markdowns
-   -_Testing italic and **bolds**_
+   -  _Testing italic and **bolds**_
    -  ![git](https://git-scm.com/images/about/branches@2x.png)
    -  Link here for markdown [Github markdown tutorial](https://guides.github.com/features/mastering-markdown/)
    -  Syntax Highlighting:
